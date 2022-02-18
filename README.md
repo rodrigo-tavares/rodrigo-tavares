@@ -6,5 +6,7 @@ My name is Rodrigo Tavares, and I'm from Brazil (🇧🇷). I've been working as
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigostavares/)](https://www.linkedin.com/in/rodrigostavares/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-tavares&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Rodrigo Tavares's github stats](https://github-readme-stats.vercel.app/api?username=rodrigo-tavares&theme=dark&show_icons=true&count_private=true)](https://github.com/rodrigo-tavares)
+[![Rodrigo Tavares github stats](https://github-readme-stats.vercel.app/api?username=rodrigo-tavares&theme=dark&show_icons=true&count_private=true)](https://github.com/rodrigo-tavares)
+
