@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Rodrigo Tavares, and I'm from Brazil (🇧🇷). I've been working as Front-End Engineer since 2015. Actually I work as a Mobile Engineer at Nubank using Flutter and Clojure. :)
+My name is Rodrigo Tavares, and I'm from Brazil (🇧🇷). I've been working as Front-End Engineer since 2015. Actually I work as a Senior Software Engineer at Gympass using React Native. :)
 
 📫 How to reach me:
 
